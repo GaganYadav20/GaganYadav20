@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gagan Yadav<br><br>🎓 I’m a 3rd-year CSE (AIML) student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building practical projects that combine problem-solving with real-world applications.<br><br>💻 I work with HTML, CSS, JavaScript, Python, C, and C++, and I’m continuously improving my skills in front-end development, data analysis, and machine learning.<br><br>🚀 I love exploring new technologies, learning by building projects, and sharing my work on GitHub. My goal is to grow as a software engineer and AI/ML practitioner while contributing to meaningful and impactful projects.<br><br>📌 Currently focused on:<br><br>Machine Learning & Data Science fundamentals<br><br>Front-end web development<br><br>Project-based learning and portfolio building<br><br>📫 Let’s connect and collaborate!<br>GitHub: GaganYadav20
+👋 Hi, I'm Gagan Yadav<br><br>🎓 I’m a 3rd-year CSE (AIML) student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building practical projects that combine problem-solving with real-world applications.<br><br>💻 I work with HTML, CSS, JavaScript, Python, C, and C++, and I’m continuously improving my skills in front-end development, data analysis, and machine learning.<br><br>🚀 I love exploring new technologies, learning by building projects, and sharing my work on GitHub. My goal is to grow as a software engineer and AI/ML practitioner while contributing to meaningful and impactful projects.<br><br>📌 Currently focused on:<br><br>Machine Learning & Data Science fundamentals<br><br>Front-end web development<br><br>Project-based learning and portfolio building<br><br>📫 Let’s connect and collaborate!<br>GitHub: (https://github.com/GaganYadav20)
 
 
 ## 🌐 Socials:
@@ -23,20 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GaganYadav20&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**GaganYadav20/GaganYadav20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
