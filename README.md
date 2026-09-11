@@ -1,13 +1,198 @@
-# 💫 About Me:
-👋 Hi, I'm Gagan Yadav<br><br>🎓 I’m a final-year CSE (AIML) student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building practical projects that combine problem-solving with real-world applications.<br><br>💻 I work with HTML, CSS, JavaScript, Python, C, and JAVA, and I’m continuously improving my skills in front-end development, data analysis, and machine learning.<br><br>🚀 I love exploring new technologies, learning by building projects, and sharing my work on GitHub. My goal is to grow as a software engineer and AI/ML practitioner while contributing to meaningful and impactful projects.<br><br>📌 Currently focused on:<br><br>Machine Learning & Data Science fundamentals<br><br>Front-end web development<br><br>Project-based learning and portfolio building<br><br>📫 Let’s connect and collaborate!<br>GitHub: https://github.com/GaganYadav20
+<h1 align="center">
+  Hi 👋, I'm Gagan Yadav
+</h1>
 
+<h3 align="center">
+  AI/ML Enthusiast | Data Science | Full Stack Developer
+</h3>
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-yadav-17b83331b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:GAGANYADAV2094@GMAIL.COM) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+(AIML)+Student;Machine+Learning+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;Building+Projects+and+Learning+Every+Day" />
+</p>
 
-# 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/GaganYadav20">
+    <img src="https://komarev.com/ghpvc/?username=GaganYadav20&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <img src="https://img.shields.io/github/followers/GaganYadav20?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/GaganYadav20?label=Stars&style=flat&color=yellow" />
+</p>
 
+---
 
+## 👨‍💻 About Me
 
+Hi, I'm **Gagan Yadav**, a 3rd-year **Computer Science & Engineering (AIML)** student passionate about building practical technology solutions.
 
+I'm interested in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Data Analysis
+- 🌐 Full Stack & Front-End Development
+- 🧠 Problem Solving
+- 🚀 Building real-world projects
+- 📚 Learning new technologies
+
+I enjoy turning ideas into working projects and continuously improving my technical skills through hands-on development.
+
+### 🔭 Currently Working On
+
+- Machine Learning & Data Science
+- Full Stack Web Development
+- AI-powered applications
+- Data analysis and visualization
+- Building better GitHub projects
+
+### 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Data Science
+- React & TypeScript
+- Backend Development
+- Cloud & AI technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+</p>
+
+### 🤖 AI / ML / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,aws,docker,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Dasgrune
+
+CSS learning and practice project containing hands-on examples for improving modern web styling skills.
+
+### 🌦️ Weather App
+
+A responsive weather application built to display weather information through a clean web interface.
+
+### 🩺 Diabetes Prediction
+
+Machine Learning project focused on predicting diabetes using a dataset and classification techniques.
+
+### 💼 Portfolio Website
+
+Personal portfolio website showcasing my skills, projects and development journey.
+
+### 🧑‍💻 Vidhi Sourcing Hub
+
+A TypeScript-based project focused on building a modern web application.
+
+### 🤖 AICC Demo
+
+One of my early development projects and a starting point in my GitHub journey.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GaganYadav20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaganYadav20&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganYadav20&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GaganYadav20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaganYadav20&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💬 Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/GaganYadav20">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build production-ready AI/ML projects
+- 🧠 Strengthen Machine Learning fundamentals
+- 🌐 Become a stronger Full Stack Developer
+- 📊 Build meaningful Data Science projects
+- 🤝 Contribute to Open Source
+- 💼 Prepare for internships and software engineering opportunities
+
+---
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+  <i>"Learn. Build. Improve. Repeat."</i>
+</p>
