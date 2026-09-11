@@ -7,11 +7,6 @@
    WEB DEVELOPER | DATA SCIENTIST | MACHINE LEARNING ENGINEER | AI DEVELOPER
   </h2>
 </p>
-<p align="center">
-  <h2 align="center">
-   WEB DEVELOPER | DATA SCIENTIST | MACHINE LEARNING ENGINEER | AI DEVELOPER
-  </h2>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;AI+%26+ML+Explorer;Building+Intelligent+Applications;Always+Learning+%E2%80%94+Always+Building" />
