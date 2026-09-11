@@ -1,10 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm Gagan Yadav
-</h1>
+# Hey there! 👋 I'm Gagan Yadav ⚡
 
-<h3 align="center">
-  AI/ML Enthusiast | Data Science | Full Stack Developer
-</h3>
+### AI/ML ENTHUSIAST | DATA SCIENCE | FULL STACK DEVELOPER | SOFTWARE DEVELOPER
+
+I’m passionate about building **intelligent and practical software solutions** that combine **Artificial Intelligence, Machine Learning, Data Science, and Web Development**. I enjoy turning ideas into real-world applications and continuously exploring new technologies.
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+(AIML)+Student;Machine+Learning+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;Building+Projects+and+Learning+Every+Day" />
@@ -20,18 +20,16 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me:
 
-Hi, I'm **Gagan Yadav**, a 3rd-year **Computer Science & Engineering (AIML)** student passionate about building practical technology solutions.
+- 🤖 **Exploring Artificial Intelligence, Machine Learning & Deep Learning**
+- 📊 **Interested in Data Science, Data Analysis & Predictive Modeling**
+- 🌐 **Building responsive and user-friendly Web Applications**
+- 💡 **Passionate about solving real-world problems through technology**
+- 🧠 **Exploring AI-powered and data-driven applications**
+- 🚀 **Always learning, building, experimenting, and improving**
 
-I'm interested in:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Data Analysis
-- 🌐 Full Stack & Front-End Development
-- 🧠 Problem Solving
-- 🚀 Building real-world projects
-- 📚 Learning new technologies
+---
 
 I enjoy turning ideas into working projects and continuously improving my technical skills through hands-on development.
 
