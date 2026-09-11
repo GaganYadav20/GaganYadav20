@@ -1,5 +1,12 @@
-# Hey there! 👋 I'm Gagan Yadav ⚡
+<h2 align="center">
+   Hey there! 👋 I'm Gagan Yadav ⚡
+</h2>
 
+<p align="center">
+  <h2 align="center">
+   WEB DEVELOPER | DATA SCIENTIST | MACHINE LEARNING ENGINEER | AI DEVELOPER
+  </h2>
+</p>
 <p align="center">
   <h2 align="center">
    WEB DEVELOPER | DATA SCIENTIST | MACHINE LEARNING ENGINEER | AI DEVELOPER
