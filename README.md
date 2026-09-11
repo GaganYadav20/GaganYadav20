@@ -8,9 +8,9 @@
   </h2>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;AI+%26+ML+Explorer;Building+Intelligent+Applications;Always+Learning+%E2%80%94+Always+Building" />
-</p>
+</p> -->
 
 <p align="center">
   I’m passionate about building <strong>intelligent systems</strong> that combine
