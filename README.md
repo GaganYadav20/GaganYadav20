@@ -48,16 +48,15 @@
 
 ### 🧩 My Ecosystem of Repositories:
 
-> A collection of projects covering **AI/ML, Data Science, Web Development, and Software Engineering.**
+> A collection of projects covering **AI/ML, Generative AI, Data Science, Web Development, and Software Engineering.**
 
-- 🌐 **Dasgrune** → Web development and modern CSS project
+- 🤖 **Multi-Agent Research & Code Analysis** → Autonomous AI agents for research, code analysis & report generation
+- 🧠 **Sentiment Analysis & Reporting Assistant** → BERT/IndicBERT-based sentiment analysis platform
+- 📈 **Stock Price Predictor** → LSTM + Transformer time-series forecasting system
+- ⚡ **Real-Time Analytics Service** → High-throughput Java/Spring Boot microservice with Redis & Kafka
+- 🩺 **Diabetes-Prediction** → Machine Learning prediction application
 - 🌦️ **Weather-App** → Weather information web application
-- 🩺 **Diabetes-Prediction** → Machine Learning prediction project
-- 💼 **Portfolio-Website** → Personal portfolio and developer showcase
-- 🧑‍💻 **Vidhi-Sourcing-Hub** → TypeScript-based web application
-- 🤖 **AICC-Demo** → AI-focused application and experimentation
-- 📊 **Data Science Projects** → Data analysis, visualization and ML experimentation
-- 🧠 **Machine Learning Projects** → Practical ML models and predictive systems
+- 📊 **Data Science Projects** → Data analysis, visualization & ML experimentation
 
 ---
 
@@ -99,50 +98,39 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GaganYadav20&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaganYadav20&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧑‍💻 Most Used Languages:
+## 🌐 Connect with Me:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganYadav20&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="left">
 
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaganYadav20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-### 📈 Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaganYadav20&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🤝 Connect With Me:
-
-<p align="center">
-
-<a href="https://github.com/GaganYadav20">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="www.linkedin.com/in/gagan-yadav20" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" />
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/GaganYadav20" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
 </a>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:gaganyadav2094@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" />
+</a>
+
+<a href="[YOUR_KAGGLE_URL](https://www.kaggle.com/gaganyadav20)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kaggle" width="65" height="65" />
+</a>
+
+<a href="[YOUR_HUGGINGFACE_URL](https://huggingface.co/gaganyadav20)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" />
+</a>
+
+<a href="[YOUR_DOCKER_URL](https://hub.docker.com/u/gaganyadav20)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
 </a>
 
 </p>
