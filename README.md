@@ -4,7 +4,7 @@
 
 <p align="center">
   <h2 align="center">
-   WEB DEVELOPER | DATA SCIENTIST | MACHINE LEARNING ENGINEER | AI DEVELOPER
+   FULL STACK AIML ENGINEER
   </h2>
 </p>
 
